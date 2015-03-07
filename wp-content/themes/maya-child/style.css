@@ -1,0 +1,130 @@
+/*
+Theme name: Maya Shop Child
+Description: The start base for easy theme wordpress development.
+Author: Your Inspiration Themes
+Author URI: http://yithemes.com/
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: black, red, white, light, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, custom-header, custom-background, custom-menu, editor-style, theme-options, threaded-comments, sticky-post, translation-ready
+template: maya
+*/
+
+@import url("../maya/style.css");
+
+/* Below you can write your style */
+body, .stretched-layout .wrapper {
+	background: #f7f2ee!important;
+
+}
+.comment-form-rating {
+	margin-left: 1.5em!important;
+}
+#logo a.logo-text {
+	font-size: 70px;
+}
+#nav {
+	border-top: none!important;
+}
+#nav > ul li a, #nav .menu > ul li a {
+	border-left: none!important;
+}
+#nav ul li a {
+	font-size: 1.5em;
+}
+h1, h2, h3, h4, p, a {
+	color: #8b6139!important;
+}
+#content ul {
+	/*margin-left:32%!important;*/
+	text-align: center!important;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	margin: 0 0.6% 3.992em 0!important;
+	text-align: left!important;
+}
+#top {
+	background: url(http://ensiklopediaindonesia.com/wp-content/uploads/2013/10/batik.jpg) no-repeat center center!important;
+}
+.ei-slider-thumbs {
+	display: none!important;
+}
+.shop-traditional .products li.has-post-thumbnail {
+	width: 22.333333% !important;
+}
+.social-media {
+	list-style: none!important;
+}
+.social-media li {
+	display: inline-block!important;
+	font-size: 2em!important;
+	margin-right: 0.3em;
+}
+.home ul.products.traditional {
+	display: block!important;
+	text-align: center!important;
+	width: 100%;
+}
+.home .product li {
+	display: inline-block!important;
+	float: none!important;
+}
+.home .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	display: inline-block!important;
+	float: none!important;
+}
+#top {
+	height: 80px!important;
+}
+
+#copyright .inner {
+	padding-top: 0px;
+}
+#nav {
+	margin: 5px 0 5px 0;
+}
+#nav ul li.cart-button, #nav ul li.checkout-button, #nav ul li.my-account-button, #nav ul li.wishlist-button {
+	display: none;
+}
+.page-title {
+	text-align: center;
+}
+
+.topbar-right .topbar-level-1 li a, .topbar-right a {
+	background: #8B6139;
+	padding: 10px;
+	line-height: 1em;
+	color: #FFF!important;
+	margin-top: 10px;
+	border:1px solid #51371E;
+}
+.yith_magnifier_gallery li {
+	margin-right: 3px;
+}
+.compare {
+	display: none!important;
+}
+#related-products h3 {
+	/*bottom: 45%;
+	position: absolute;
+	left: 12%;*/
+	display: none;
+}
+.woocommerce div.product div.images div.thumbnails, .woocommerce #content div.product div.images div.thumbnails, .woocommerce-page div.product div.images div.thumbnails, .woocommerce-page #content div.product div.images div.thumbnails {
+	margin-bottom: 2em;
+}
+.inside-thumb {
+	width: auto!important;
+	text-align: center!important;
+}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price {
+	text-align: left!important;
+}
+.page-title {
+	margin-bottom: 1em;
+}
+.thumbnail strong {
+	text-align: left!important;
+}
+.layout-sidebar-right #sidebar {
+	display: none;
+}
