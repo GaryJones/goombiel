@@ -1,0 +1,152 @@
+03-09-2015 @ 03:16:44 - Generating payment form for order #153
+03-09-2015 @ 03:16:44 - Signature string is: 0OELiYnkxKID00163153800USD
+03-09-2015 @ 03:16:44 - Order form parameters: Array
+(
+    [MerchantCode] => ID00163
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [ProdDesc] => 1 x Jewelries 02
+    [UserName] => René Arcouet
+    [UserEmail] => renarcouet@armyspy.com
+    [UserContact] => 04-76-34-20-39
+    [ResponseURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88
+    [BackendURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88&iPay88_response=backend
+    [PaymentId] => 1
+    [signature] => 4tX5U/DXBJdrDE5aRuLyrygJ87c=
+)
+
+03-09-2015 @ 03:16:45 - Payment response received. Response is: Array
+(
+    [MerchantCode] => ID00163
+    [PaymentId] => 1
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [Remark] => 
+    [TransId] => T0002132600
+    [AuthCode] => 
+    [Status] => 0
+    [ErrDesc] => Invalid parameters(Currency Not Supported By Merchant Account)
+    [Signature] => 
+)
+
+03-09-2015 @ 03:16:45 - Validating response...
+03-09-2015 @ 03:16:45 - Signature string is: 0OELiYnkxKID001631153800USD0
+03-09-2015 @ 03:16:45 - Generated response signature is: /mFG9zVNZyaLUHSCZyl9lQbNXsc=
+03-09-2015 @ 03:16:45 - Received post signature is: 
+03-09-2015 @ 03:16:45 - Signature validation failed.
+03-09-2015 @ 03:17:08 - Generating payment form for order #153
+03-09-2015 @ 03:17:08 - Signature string is: 0OELiYnkxKID00163153800USD
+03-09-2015 @ 03:17:08 - Order form parameters: Array
+(
+    [MerchantCode] => ID00163
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [ProdDesc] => 1 x Jewelries 02
+    [UserName] => René Arcouet
+    [UserEmail] => renarcouet@armyspy.com
+    [UserContact] => 04-76-34-20-39
+    [ResponseURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88
+    [BackendURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88&iPay88_response=backend
+    [PaymentId] => 1
+    [signature] => 4tX5U/DXBJdrDE5aRuLyrygJ87c=
+)
+
+03-09-2015 @ 03:17:09 - Payment response received. Response is: Array
+(
+    [MerchantCode] => ID00163
+    [PaymentId] => 1
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [Remark] => 
+    [TransId] => T0002132700
+    [AuthCode] => 
+    [Status] => 0
+    [ErrDesc] => Invalid parameters(Currency Not Supported By Merchant Account)
+    [Signature] => 
+)
+
+03-09-2015 @ 03:17:09 - Validating response...
+03-09-2015 @ 03:17:09 - Signature string is: 0OELiYnkxKID001631153800USD0
+03-09-2015 @ 03:17:09 - Generated response signature is: /mFG9zVNZyaLUHSCZyl9lQbNXsc=
+03-09-2015 @ 03:17:09 - Received post signature is: 
+03-09-2015 @ 03:17:09 - Signature validation failed.
+03-09-2015 @ 03:17:23 - Generating payment form for order #153
+03-09-2015 @ 03:17:23 - Signature string is: 0OELiYnkxKID00163153800USD
+03-09-2015 @ 03:17:23 - Order form parameters: Array
+(
+    [MerchantCode] => ID00163
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [ProdDesc] => 1 x Jewelries 02
+    [UserName] => René Arcouet
+    [UserEmail] => renarcouet@armyspy.com
+    [UserContact] => 04-76-34-20-39
+    [ResponseURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88
+    [BackendURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88&iPay88_response=backend
+    [PaymentId] => 1
+    [signature] => 4tX5U/DXBJdrDE5aRuLyrygJ87c=
+)
+
+03-09-2015 @ 03:17:25 - Payment response received. Response is: Array
+(
+    [MerchantCode] => ID00163
+    [PaymentId] => 1
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [Remark] => 
+    [TransId] => T0177312000
+    [AuthCode] => 
+    [Status] => 0
+    [ErrDesc] => Invalid parameters(Currency Not Supported By Merchant Account)
+    [Signature] => 
+)
+
+03-09-2015 @ 03:17:25 - Validating response...
+03-09-2015 @ 03:17:25 - Signature string is: 0OELiYnkxKID001631153800USD0
+03-09-2015 @ 03:17:25 - Generated response signature is: /mFG9zVNZyaLUHSCZyl9lQbNXsc=
+03-09-2015 @ 03:17:25 - Received post signature is: 
+03-09-2015 @ 03:17:25 - Signature validation failed.
+03-09-2015 @ 03:18:32 - Generating payment form for order #153
+03-09-2015 @ 03:18:32 - Signature string is: 0OELiYnkxKID00163153800USD
+03-09-2015 @ 03:18:32 - Order form parameters: Array
+(
+    [MerchantCode] => ID00163
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [ProdDesc] => 1 x Jewelries 02
+    [UserName] => René Arcouet
+    [UserEmail] => renarcouet@armyspy.com
+    [UserContact] => 04-76-34-20-39
+    [ResponseURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88
+    [BackendURL] => http://localhost/goombiel/?wc-api=WC_Gateway_iPay88&iPay88_response=backend
+    [PaymentId] => 1
+    [signature] => 4tX5U/DXBJdrDE5aRuLyrygJ87c=
+)
+
+03-09-2015 @ 03:18:33 - Payment response received. Response is: Array
+(
+    [MerchantCode] => ID00163
+    [PaymentId] => 1
+    [RefNo] => 153
+    [Amount] => 800
+    [Currency] => USD
+    [Remark] => 
+    [TransId] => T0177312200
+    [AuthCode] => 
+    [Status] => 0
+    [ErrDesc] => Invalid parameters(Currency Not Supported By Merchant Account)
+    [Signature] => 
+)
+
+03-09-2015 @ 03:18:33 - Validating response...
+03-09-2015 @ 03:18:33 - Signature string is: 0OELiYnkxKID001631153800USD0
+03-09-2015 @ 03:18:33 - Generated response signature is: /mFG9zVNZyaLUHSCZyl9lQbNXsc=
+03-09-2015 @ 03:18:33 - Received post signature is: 
+03-09-2015 @ 03:18:33 - Signature validation failed.
